@@ -2,7 +2,7 @@
 ##########     Session 1: R Fundamentals | Completed     ###########################################
 ####################################################################################################
 
-# Welcome to our first session on Python!
+# Welcome to our first session on R!
 # In this sessions you will learn R fundamentals, including:
 # - RStudio IDE
 # - Basic operations
@@ -212,10 +212,10 @@ c(T,'character',45,41.1,Sys.Date()) #type conversion! c() forces all elements to
 
 # using purpose-built functions
 1:10
+seq(from=1,to=100,by=2)
 rep('a',times=10)
 rep(c('a','b','c'),times=2)
 rep(c('a','b','c'),each=2)
-seq(from=1,to=100,by=2)
 
 # random 
 sample(x=1:100,size=3,replace=F) #sample from vector of values
@@ -251,7 +251,7 @@ names(1:10) #this is an un-named vector: see below for named vectors
 # create a vector to use for this section
 lines = c('Central', 'Victoria', 'Jubilee', 'Elizabeth','Bakerloo','Northern','Piccadilly')
 
-# extract the first element
+# extract the first element - starts from 1 not 0 :)
 lines[1]
 
 # extract the first two elements
@@ -490,13 +490,13 @@ while(n>0){
 # ie they are a concise way to apply functions to a vector or list
 
 # get the square root of numbers 1:4 (use built-in function)
-lapply(1:4,sqrt) #lapply always returns a list
+#lapply(1:4,sqrt) #lapply always returns a list
 
 # cube the numbers 1:4 (use custom function)
-sapply(1:4,cube) #sapply simplifies the list output into a vector, if possible
+#sapply(1:4,cube) #sapply simplifies the list output into a vector, if possible
 
 # get the fourth power of the numbers 1:4 (define a function on-the-fly)
-sapply(1:4,function(x)x^4)
+#sapply(1:4,function(x)x^4)
 
 # --------------------------------------------------------------------------------------------------
 # ---------- CODING CHALLENGES ---------------------------------------------------------------------

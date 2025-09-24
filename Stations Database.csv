@@ -1,0 +1,269 @@
+Station,Zone,Type,TH,ESC,LFT,TRV,NRInterchange,StepFree,EntryCounts
+Acton Town,3,Outer Suburb,1,0,0,0,-,-,9379
+Aldgate,1,City,1,0,0,0,-,-,12779
+Aldgate East,1,City,2,0,0,0,-,-,19298
+Alperton,4,Outer Suburb,1,0,0,0,-,-,4804
+Amersham,9,Outer Suburb,1,0,0,0,Yes,One platform only,3812
+Angel,1,City,1,6,0,0,-,-,29351
+Archway,01-02,Inner Suburb,1,2,0,0,-,-,14356
+Arnos Grove,4,Outer Suburb,1,0,0,0, ,-,7317
+Arsenal,2,Inner Suburb,1,0,0,0,-,-,4592
+Baker Street,1,Tourist,2,6,0,0,-,-,51324
+Balham,3,Outer Suburb,1,2,0,0,Yes,-,20943
+Bank / Monument,1,City,2,15,4,2,-,Partial,96148
+Barbican,1,City,1,0,0,0,Yes,-,19773
+Barking,4,Outer Suburb,1,0,1,0,Yes,Yes,25756
+Barkingside,4,Outer Suburb,1,0,0,0,-,One platform only,2390
+Barons Court,2,Inner Suburb,1,0,0,0,-,-,12540
+Bayswater,1,Tourist,1,0,0,0,-,-,7933
+Becontree,5,Outer Suburb,1,0,0,0,-,-,5657
+Belsize Park,2,Inner Suburb,1,0,3,0,-,-,9829
+Bermondsey,2,Inner Suburb,1,3,0,0,-,Yes,14908
+Bethnal Green,2,Inner Suburb,1,3,0,0,-,-,24593
+Blackfriars,1,City,1,2,0,0,Yes,-,22895
+Blackhorse Road,3,Outer Suburb,1,2,0,0,Yes,-,13766
+Bond Street,1,Shopping,1,8,0,0,-,-,25818
+Borough,1,Inner Suburb,1,0,2,0,-,One platform only,8315
+Boston Manor,4,Outer Suburb,1,0,0,0,-,-,3766
+Bounds Green,03-Apr,Outer Suburb,1,2,0,0,-,-,10250
+Bow Road,2,Inner Suburb,1,0,0,0,-,-,9191
+Brent Cross,3,Outer Suburb,1,0,0,0,-,-,3773
+Brixton,2,Inner Suburb,1,2,2,0,Yes,Yes,45020
+Bromley-by-Bow,02-Mar,Inner Suburb,1,0,0,0,-,-,5550
+Buckhurst Hill,5,Outer Suburb,1,0,0,0,-,-,3447
+Burnt Oak,4,Outer Suburb,1,0,0,0,-,-,6727
+Caledonian Road,2,Inner Suburb,1,0,2,0,-,Yes,9614
+Camden Town,2,Inner Suburb,1,2,0,0,-,-,30646
+Canada Water,2,Inner Suburb,1,8,0,0,-,Yes,17237
+Canary Wharf,2,City,2,20,0,0,-,Yes,87683
+Canning Town,3,Inner Suburb,1,10,0,0,Yes,Yes,15808
+Cannon Street,1,City,1,0,0,0,Yes,-,11054
+Canons Park,5,Outer Suburb,1,0,0,0,-,-,4262
+Chalfont & Latimer,8,Outer Suburb,1,0,0,0,Yes,Yes,2526
+Chalk Farm,2,Inner Suburb,1,0,2,0,-,-,9001
+Chancery Lane,1,City,1,5,0,0,-,-,28971
+Charing Cross,1,Terminus,2,10,0,0,Yes,-,34665
+Chesham,9,Outer Suburb,1,0,0,0,-,Yes,1536
+Chigwell,4,Outer Suburb,1,0,0,0,-,-,1064
+Chiswick Park,3,Outer Suburb,1,0,0,0,-,-,3580
+Chorleywood,7,Outer Suburb,1,0,0,0,Yes,Yes,1911
+Clapham Common,2,Inner Suburb,1,2,0,0,-,-,12394
+Clapham North,2,Inner Suburb,1,2,0,0,Yes,-,8800
+Clapham South,02-Mar,Inner Suburb,1,2,0,0,-,-,13297
+Cockfosters,5,Outer Suburb,1,0,0,0,-,-,2815
+Colindale,4,Outer Suburb,1,0,0,0,-,-,8889
+Colliers Wood,3,Outer Suburb,1,2,0,0,-,-,9978
+Covent Garden,1,Tourist,1,0,4,0,-,-,17133
+Croxley,7,Outer Suburb,1,0,0,0,-,-,1776
+Dagenham East,5,Outer Suburb,1,0,0,0,-,-,4520
+Dagenham Heathway,5,Outer Suburb,1,0,0,0,-,Yes,9521
+Debden,6,Outer Suburb,1,0,0,0,-,One platform only,4384
+Dollis Hill,3,Outer Suburb,1,0,0,0,-,-,6120
+Ealing Broadway,3,Outer Suburb,1,0,0,0,Yes,-,28589
+Ealing Common,3,Outer Suburb,1,0,0,0,-,-,5518
+Earl's Court,01-Feb,Inner Suburb,3,4,4,0,-,Yes,32309
+East Acton,2,Inner Suburb,1,0,0,0,-,-,6319
+East Finchley,3,Outer Suburb,1,0,0,0,-,-,12104
+East Ham,03-Apr,Outer Suburb,1,0,2,0,-,Yes,23255
+East Putney,02-Mar,Inner Suburb,1,0,0,0,Yes,-,10169
+Eastcote,5,Outer Suburb,1,0,0,0,-,-,4759
+Edgware,5,Outer Suburb,1,0,0,0,-,-,7249
+Edgware Road (Bak),1,Inner Suburb,1,0,2,0,-,-,6677
+Edgware Road (Cir),1,Inner Suburb,1,0,0,0,-,-,11838
+Elephant & Castle,01-Feb,Inner Suburb,2,0,5,0,Yes,-,29479
+Elm Park,6,Outer Suburb,1,0,0,0,-,Yes,5089
+Embankment,1,Tourist,1,10,0,0,Yes,-,28660
+Epping,6,Outer Suburb,1,0,0,0,-,Yes,5480
+Euston,1,Terminus,1,10,0,0,Yes,-,60344
+Euston Square,1,City,1,0,0,0,Yes,-,23914
+Fairlop,4,Outer Suburb,1,0,0,0,-,-,1840
+Farringdon,1,City,1,0,0,0,Yes,-,42537
+Finchley Central,4,Outer Suburb,1,0,0,0,-,-,9486
+Finchley Road,2,Inner Suburb,1,0,0,0,-,-,16030
+Finsbury Park,2,Inner Suburb,1,0,0,0,Yes,-,42737
+Fulham Broadway,2,Inner Suburb,1,0,0,0,-,Yes,16739
+Gants Hill,4,Outer Suburb,1,3,0,0,-,-,10753
+Gloucester Road,1,Inner Suburb,1,0,2,0,-,-,18943
+Golders Green,3,Outer Suburb,1,0,0,0,-,-,12907
+Goldhawk Road,2,Inner Suburb,1,0,0,0,-,-,3386
+Goodge Street,1,Shopping,1,0,4,0,-,-,14153
+Grange Hill,4,Outer Suburb,1,0,0,0,-,-,1105
+Great Portland Street,1,Tourist,1,0,0,0,-,-,15081
+Green Park,1,Tourist,1,11,0,0,-,-,60138
+Greenford,4,Outer Suburb,1,0,0,0,Yes,-,7548
+Gunnersbury,3,Outer Suburb,1,0,0,0,Yes,-,9833
+Hainault,4,Outer Suburb,1,0,0,0,-,-,5851
+Hammersmith (Dis),2,Inner Suburb,2,0,0,0,-,Yes,46667
+Hammersmith (H&C),2,Inner Suburb,1,0,0,0,-,Yes,16456
+Hampstead,02-Mar,Inner Suburb,1,0,4,0,-,-,6273
+Hanger Lane,3,Outer Suburb,1,0,0,0,-,-,6418
+Harlesden,3,Outer Suburb,1,0,0,0,Yes,-,4663
+Harrow & Wealdstone,5,Outer Suburb,1,0,0,0,Yes,Yes,7782
+Harrow-on-the-Hill,5,Outer Suburb,1,0,0,0,Yes,-,15116
+Hatton Cross,05-Jun,Outer Suburb,1,0,0,0,-,-,5104
+Heathrow Terminal 4,6,Tourist,1,0,0,0,Yes,Yes,2855
+Heathrow Terminal 5,6,Tourist,1,0,0,0,Yes,Yes,6243
+Heathrow Terminals 123,6,Tourist,1,6,0,0,Yes,Yes,10744
+Hendon Central,03-Apr,Outer Suburb,1,0,0,0,-,-,12335
+High Barnet,5,Outer Suburb,1,0,0,0,-,-,5275
+High Street Kensington,1,Shopping,1,0,0,0,-,-,21040
+Highbury & Islington,2,Inner Suburb,1,2,0,0,Yes,-,28128
+Highgate,3,Outer Suburb,1,3,0,0,-,-,8070
+Hillingdon,6,Outer Suburb,1,0,2,0,-,Yes,2932
+Holborn,1,City,1,7,0,0,-,-,57013
+Holland Park,2,Inner Suburb,1,0,2,0,-,-,5218
+Holloway Road,2,Inner Suburb,1,0,2,0,-,-,10645
+Hornchurch,6,Outer Suburb,1,0,0,0,-,-,3681
+Hounslow Central,4,Outer Suburb,1,0,0,0,-,-,6277
+Hounslow East,4,Outer Suburb,1,0,0,0,-,Yes,6873
+Hounslow West,5,Outer Suburb,1,0,0,0,-,Yes,5551
+Hyde Park Corner,1,Tourist,1,2,0,0,-,-,7457
+Ickenham,6,Outer Suburb,1,0,0,0,-,-,1864
+Kennington,2,Inner Suburb,1,0,2,0,-,-,7722
+Kensal Green,2,Inner Suburb,1,0,0,0,Yes,-,3787
+Kensington (Olympia),2,Inner Suburb,1,0,0,0,Yes,Yes,1549
+Kentish Town,2,Inner Suburb,1,2,0,0,Yes,-,12725
+Kenton,4,Outer Suburb,1,0,0,0,Yes,-,3273
+Kew Gardens,03-Apr,Outer Suburb,1,0,0,0,Yes,Yes,5491
+Kilburn,2,Inner Suburb,1,0,2,0,-,Yes,12161
+Kilburn Park,2,Inner Suburb,1,2,0,0,-,-,5053
+King's Cross St. Pancras,1,Terminus,2,9,4,0,Yes,-,144672
+Kingsbury,4,Outer Suburb,1,0,0,0,-,-,7473
+Knightsbridge,1,Shopping,2,5,0,0,-,-,31305
+Ladbroke Grove,2,Inner Suburb,1,0,0,0,-,-,9421
+Lambeth North,1,Inner Suburb,1,0,2,0,-,-,5334
+Lancaster Gate,1,Tourist,1,0,2,0,-,-,9961
+Latimer Road,2,Inner Suburb,1,0,0,0,-,-,4038
+Leicester Square,1,Tourist,1,6,0,0,-,-,57907
+Leyton,3,Outer Suburb,2,0,0,0,-,-,21676
+Leytonstone,03-Apr,Outer Suburb,1,0,0,0,-,-,17374
+Liverpool Street,1,City,3,9,0,0,Yes,One Platform Only,113595
+London Bridge,1,City,2,17,0,0,Yes,Yes,116460
+Loughton,6,Outer Suburb,1,0,0,0,-,-,5343
+Maida Vale,2,Inner Suburb,1,2,0,0,-,-,5526
+Manor House,02-Mar,Inner Suburb,1,3,0,0,-,-,14313
+Mansion House,1,City,1,0,0,0,-,-,10976
+Marble Arch,1,Shopping,1,2,0,0,-,-,24265
+Marylebone,1,Terminus,1,2,0,0,Yes,-,20628
+Mile End,2,Inner Suburb,1,0,0,0,-,-,24501
+Mill Hill East,4,Outer Suburb,1,0,0,0,-,-,2216
+Moor Park,06-Jul,Outer Suburb,1,0,0,0,Yes,-,1580
+Moorgate,1,City,2,6,0,0,Yes,-,45647
+Morden,4,Outer Suburb,1,0,0,0,-,Yes,14081
+Mornington Crescent,2,Inner Suburb,1,0,2,0,-,-,7038
+Neasden,3,Outer Suburb,1,0,0,0,-,-,5641
+Newbury Park,4,Outer Suburb,1,0,0,0,-,-,8321
+North Acton,02-Mar,Inner Suburb,1,0,0,0,-,-,9301
+North Ealing,3,Outer Suburb,1,0,0,0,-,-,1506
+North Greenwich,02-Mar,Inner Suburb,1,9,2,0,-,Yes,34350
+North Harrow,5,Outer Suburb,1,0,0,0,-,-,3120
+North Wembley,4,Outer Suburb,1,0,0,0,Yes,-,2666
+Northfields,3,Outer Suburb,1,0,0,0,-,-,6711
+Northolt,5,Outer Suburb,1,0,0,0,-,-,7963
+Northwick Park,4,Outer Suburb,1,0,0,0,-,-,7435
+Northwood,6,Outer Suburb,1,0,0,0,-,-,4362
+Northwood Hills,6,Outer Suburb,1,0,0,0,-,-,2886
+Notting Hill Gate,01-Feb,Inner Suburb,1,6,0,0,-,-,24063
+Oakwood,5,Outer Suburb,1,0,0,0,-,-,4255
+Old Street,1,City,1,3,0,0,Yes,-,37390
+Osterley,4,Outer Suburb,1,0,0,0,-,-,3810
+Oval,2,Inner Suburb,1,2,0,0,-,-,10072
+Oxford Circus,1,Shopping,2,14,0,0,-,-,143996
+Paddington,1,Terminus,3,4,0,0,Yes,-,77859
+Park Royal,3,Outer Suburb,1,0,0,0,-,-,3289
+Parsons Green,2,Inner Suburb,1,0,0,0,-,-,11178
+Perivale,4,Outer Suburb,1,0,0,0,-,-,3725
+Piccadilly Circus,1,Tourist,1,11,0,0,-,-,59609
+Pimlico,1,Tourist,1,2,0,0,-,-,18448
+Pinner,5,Outer Suburb,1,0,0,0,-,-,4783
+Plaistow,3,Outer Suburb,1,0,0,0,-,-,10882
+Preston Road,4,Outer Suburb,1,0,0,0,-,-,5638
+Putney Bridge,2,Inner Suburb,1,0,0,0,-,-,9113
+Queen's Park,2,Inner Suburb,1,0,0,0,Yes,-,9383
+Queensbury,4,Inner Suburb,1,0,0,0,-,-,6788
+Queensway,1,Tourist,1,0,2,0,-,-,10718
+Ravenscourt Park,2,Inner Suburb,1,0,0,0,-,-,4842
+Rayners Lane,5,Outer Suburb,1,0,0,0,-,-,7067
+Redbridge,4,Outer Suburb,1,0,0,0,-,-,4729
+Regent's Park,1,Tourist,1,0,2,0,-,-,5567
+Richmond,4,Outer Suburb,1,0,0,0,-,Yes,12837
+Rickmansworth,7,Outer Suburb,1,0,0,0,Yes,One Platform Only,4306
+Roding Valley,4,Outer Suburb,1,0,0,0,-,Partially,501
+Royal Oak,2,Inner Suburb,1,0,0,0,-,-,4441
+Ruislip,6,Outer Suburb,1,0,0,0,-,One Platform Only,3022
+Ruislip Gardens,5,Outer Suburb,1,0,0,0,-,-,1938
+Ruislip Manor,6,Outer Suburb,1,0,0,0,-,-,3295
+Russell Square,1,Tourist,1,0,3,0,-,-,19484
+Seven Sisters,3,Outer Suburb,2,4,0,0,Yes,-,24995
+Shepherd's Bush,2,Inner Suburb,1,2,0,0,-,-,34956
+Shepherd's Bush Market,2,Inner Suburb,1,0,0,0,-,-,5810
+Sloane Square,1,Shopping,1,2,0,0,-,-,25837
+Snaresbrook,4,Outer Suburb,1,0,0,0,-,-,5140
+South Ealing,3,Outer Suburb,1,0,0,0,-,-,5726
+South Harrow,5,Outer Suburb,1,0,0,0,-,-,3881
+South Kensington,1,Tourist,1,5,0,0,-,-,52892
+South Kenton,4,Outer Suburb,1,0,0,0,Yes,-,1885
+South Ruislip,5,Outer Suburb,1,0,0,0,Yes,-,2881
+South Wimbledon,03-Apr,Outer Suburb,1,2,0,0,-,-,7077
+South Woodford,4,Outer Suburb,2,0,0,0,-,One Platform only,7287
+Southfields,3,Outer Suburb,1,0,0,0,-,-,10108
+Southgate,4,Outer Suburb,1,2,0,0,-,-,8522
+Southwark,1,Inner Suburb,2,8,0,0,Yes,Yes,23624
+St. James's Park,1,Tourist,2,0,0,0,-,-,28696
+St. John's Wood,2,Inner Suburb,1,2,0,0,-,-,12063
+St. Paul's,1,City,1,4,0,0,-,-,28358
+Stamford Brook,2,Inner Suburb,1,0,0,0,-,-,4402
+Stanmore,5,Outer Suburb,1,0,0,0,-,Yes,6020
+Stepney Green,2,Inner Suburb,1,0,0,0,-,-,8989
+Stockwell,2,Inner Suburb,1,3,0,0,-,-,18316
+Stonebridge Park,3,Outer Suburb,1,0,0,0,Yes,-,4217
+Stratford,3,Outer Suburb,2,2,5,0,Yes,Yes,86183
+Sudbury Hill,4,Outer Suburb,1,0,0,0,-,-,3563
+Sudbury Town,4,Outer Suburb,1,0,0,0,-,Yes,3551
+Swiss Cottage,2,Inner Suburb,1,2,0,0,-,-,11796
+Temple,1,City,1,0,0,0,-,-,13515
+Theydon Bois,6,Outer Suburb,1,0,0,0,-,One Platform Only,1421
+Tooting Bec,3,Outer Suburb,1,2,0,0,-,-,12083
+Tooting Broadway,3,Outer Suburb,1,3,0,0,-,-,23628
+Tottenham Court Road,1,Shopping,1,6,0,0,-,-,56017
+Tottenham Hale,3,Outer Suburb,1,2,0,0,Yes,Yes,18983
+Totteridge & Whetstone,4,Outer Suburb,1,0,0,0,-,-,3794
+Tower Hill,1,Tourist,2,0,0,0,Yes,-,36536
+Tufnell Park,2,Inner Suburb,1,0,2,0,-,-,6309
+Turnham Green,02-Mar,Inner Suburb,1,0,0,0,-,-,9817
+Turnpike Lane,3,Outer Suburb,1,3,0,0,-,-,16502
+Upminster,6,Outer Suburb,1,0,3,0,Yes,Yes,8180
+Upminster Bridge,6,Outer Suburb,1,0,0,0,-,-,2041
+Upney,4,Outer Suburb,1,0,0,0,-,Yes,4380
+Upton Park,3,Outer Suburb,1,0,0,0,-,-,17820
+Uxbridge,6,Outer Suburb,1,0,0,0,-,Yes,12914
+Vauxhall,01-Feb,Inner Suburb,1,2,0,0,Yes,-,44774
+Victoria,1,Terminus,2,6,0,0,Yes,-,130315
+Walthamstow Central,3,Outer Suburb,1,2,0,0,Yes,-,28214
+Wanstead,4,Outer Suburb,1,2,0,0,-,-,4680
+Warren Street,1,Shopping,1,7,0,0,-,-,33716
+Warwick Avenue,2,Outer Suburb,1,2,0,0,-,-,7245
+Waterloo,1,Terminus,3,23,0,2,Yes,Partially,144764
+Watford,7,Outer Suburb,1,0,0,0,-,-,2962
+Wembley Central,4,Outer Suburb,1,0,0,0,Yes,-,7852
+Wembley Park,4,Outer Suburb,1,4,0,0,-,Yes,20894
+West Acton,3,Outer Suburb,1,0,0,0,-,-,2705
+West Brompton,2,Inner Suburb,1,0,0,0,Yes,One Platform Only,6553
+West Finchley,4,Outer Suburb,1,0,0,0,-,Yes,2620
+West Ham,3,Outer Suburb,1,6,0,0,Yes,Yes,5592
+West Hampstead,2,Inner Suburb,1,0,0,0,Yes,-,17676
+West Harrow,5,Outer Suburb,1,0,0,0,-,-,1959
+West Kensington,2,Inner Suburb,1,0,0,0,-,-,8237
+West Ruislip,6,Outer Suburb,1,0,0,0,Yes,-,2458
+Westbourne Park,2,Inner Suburb,1,0,0,0,-,-,6443
+Westminster,1,Tourist,1,17,0,0,-,Yes,38015
+White City,2,Inner Suburb,1,0,0,0,-,-,11936
+Whitechapel,2,Inner Suburb,1,0,0,0,-,-,20551
+Willesden Green,02-Mar,Inner Suburb,1,0,0,0,-,-,13863
+Willesden Junction,3,Outer Suburb,1,0,0,0,Yes,Yes,7185
+Wimbledon,3,Outer Suburb,1,0,0,0,-,Yes,24613
+Wimbledon Park,3,Outer Suburb,1,0,0,0,-,-,3242
+Wood Green,3,Outer Suburb,1,3,0,0,-,-,19935
+Wood Lane,2,Inner Suburb,1,0,4,0,-,Yes,5671
+Woodford,4,Outer Suburb,2,0,0,0,-,Yes,9339
+Woodside Park,4,Outer Suburb,1,0,0,0,-,Yes,4328

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ##### R Training : 1 Hour Taster,  #####
 
 # 1. Empty Global Environment
